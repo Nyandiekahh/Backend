@@ -1,0 +1,9 @@
+
+# django backend
+projects/backend/.venv/
+projects/backend/db.sqlite3
+projects/backend/media/
+projects/backend/staticfiles/
+projects/backend/.env
+__pycache__/
+*.pyc
